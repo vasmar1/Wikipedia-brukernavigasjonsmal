@@ -1,0 +1,6 @@
+# Brukernavigasjonsmalen drar nytte av en egen mal, Bruker:Vasmar1/Maler/Runde hjørner
+
+#Satt opp slik,
+border-radius:1em; box-shadow: 0.1em 0.1em 0.5em rgba(0,0,0,0.75);
+
+#Hele linje 4 kan brukes i alle maler eller wikicode på Wikipedia, ved å benytte {{Bruker:Vasmar1/Maler/Runde hjørner}} eller [[Mal:Bruker:Vasmar1/Maler/Runde hjørner]]
